@@ -1,0 +1,22 @@
+.input{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.label{
+    font-size: small;
+    color: gray;
+}
+
+.in{
+    border: 1px solid gray;
+    padding: 5px;
+    width: 100%;
+}
+
+.in:focus{
+    outline: 0;
+}

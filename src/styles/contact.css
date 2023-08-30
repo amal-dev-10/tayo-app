@@ -1,0 +1,90 @@
+.contact{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.noContactDiv{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    border: 2px solid rgb(187, 187, 187);
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.statusDiv{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.statusTitle{
+    font-size: small;
+    color: gray;
+}
+
+.radioDiv{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.radioLabel{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+
+.radio{
+    height: 20px;
+    width: 20px;
+}
+
+.inputsDiv{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    border: 2px solid rgb(206, 206, 206);
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.buttonDiv{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    padding: 10px;
+}
+
+.contactList {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    min-width: 100px;
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(210, 210, 210);
+}
