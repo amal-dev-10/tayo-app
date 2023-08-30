@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tayo-app/static/css/main.2578aaf3.css",
+    "main.js": "/tayo-app/static/js/main.416fb390.js",
+    "static/js/787.cfa6e1a5.chunk.js": "/tayo-app/static/js/787.cfa6e1a5.chunk.js",
+    "index.html": "/tayo-app/index.html",
+    "main.2578aaf3.css.map": "/tayo-app/static/css/main.2578aaf3.css.map",
+    "main.416fb390.js.map": "/tayo-app/static/js/main.416fb390.js.map",
+    "787.cfa6e1a5.chunk.js.map": "/tayo-app/static/js/787.cfa6e1a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2578aaf3.css",
+    "static/js/main.416fb390.js"
+  ]
+}
